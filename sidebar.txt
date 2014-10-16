@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cbc:home|Door43 (cbc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cbc|d43-cbc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cbc/archive/master.zip|d43-cbc.zip]]
+
+**Recent Changes**
+{{changes>ns = cbc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cbc|Ethnologue data]]
+
